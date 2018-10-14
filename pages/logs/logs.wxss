@@ -1,8 +1,17 @@
-.log-list {
-  display: flex;
-  flex-direction: column;
-  padding: 40rpx;
+.saoma{
+  height: 40px;
+  width:110px;
+  line-height: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #fff;
+  background-color: #999;
+  text-align: center;
 }
-.log-item {
-  margin: 10rpx;
+.show{
+  width: 100%;
+  color: #666;
+  background-color: #fff;
+  height: auto;
+ 
 }
